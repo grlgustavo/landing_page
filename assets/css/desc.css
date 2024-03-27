@@ -1,0 +1,7 @@
+.desc-content{
+    position: relative;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    min-height: 100%;
+}

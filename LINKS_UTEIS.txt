@@ -1,0 +1,23 @@
+CodePen - https://codepen.io/luizomf/full/KKNwMeG
+
+Github - https://github.com/luizomf/landing-page-cursojs
+
+Background SVG - https://www.svgbackgrounds.com/#confetti-doodles
+
+Banco de imagens - https://undraw.co/
+
+Banco de imagens randomicas - https://source.unsplash.com/random/360x360
+
+Google Fonts - https://fonts.google.com/
+
+HTML Checker - https://validator.w3.org/nu/#textarea
+
+a11y (acessibilidade) - https://websiteaccessibilitychecker.com/checker/index.php
+
+Nelify - https://app.netlify.com/teams/grlgustavo/overview
+
+Cheat-sheet - https://docs.emmet.io/cheat-sheet/
+
+<a href="https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/">Free SVG Backgrounds and Patterns by SVGBackgrounds.com</a>
+
+Curso de Github - https://youtu.be/RGOj5yH7evk?si=3t2Cb0wil7orlas3

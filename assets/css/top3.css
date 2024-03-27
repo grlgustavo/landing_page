@@ -1,0 +1,34 @@
+.top3-content{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    height: 100%;
+}
+.top3-header{
+    margin-bottom: 1rem;
+}
+.top3-desc{
+    padding-bottom: 3rem;
+}
+.top3-grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: var(--gap);
+    counter-reset: grid-counter;
+}
+.top3-grid h3{
+    font-size: 3rem;
+    position: relative;
+    padding-left: 5rem;
+    padding-bottom: 2rem;
+}
+.top3-grid h3::before {
+    counter-increment: grid-counter;
+    content: counter(grid-counter);
+    position: absolute;
+    font-style: italic;
+    font-size: 8rem;
+    top: -4rem;
+    left: 0;
+    transform: rotate(5deg);
+}
